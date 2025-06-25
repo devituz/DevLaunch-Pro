@@ -1,0 +1,390 @@
+{
+  "header": {
+    "services": "Xizmatlar",
+    "how_it_works": "Qanday ishlaydi",
+    "pricing": "Narxlar",
+    "faq": "Savollar",
+    "contact": "Aloqa",
+    "start_on_telegram": "Telegramda boshlash",
+    "brand_name": "DevLaunch Pro"
+  },
+  "hero": {
+    "trust": {
+      "compliant": "100% siyosatga mos",
+      "deployment": "24 soatda ishga tushirish",
+      "projects": "10+ loyiha ishga tushdi"
+    },
+    "title": {
+      "first": "Raqamli mahsulotingizni",
+      "highlight": "ishga tushiring",
+      "second": "tez va professional"
+    },
+    "description": "Google Play ilovalarini chiqarishdan tortib to butun DevOps ishga tushirishgacha — biz texnik ishlarni o‘z zimmamizga olamiz.",
+    "cta": {
+      "explore": "Xizmatlarni ko‘rish",
+      "telegram": "Telegramda boshlash"
+    },
+    "card1": {
+      "title": "Google Play nashri",
+      "price": "Boshlang‘ich narx: $50",
+      "description": "ASO, grafikalar va siyosatga moslashtirilgan Android ilova nashri.",
+      "learn": "Batafsil"
+    },
+    "card2": {
+      "title": "DevOps Ishga Tushirish",
+      "price": "Boshlang‘ich narx: $50",
+      "description": "Domen, VPS, SSL, CI/CD va bot hosting bilan to‘liq deploy xizmati.",
+      "learn": "Batafsil"
+    },
+    "stats": {
+      "apps": "Chiqarilgan ilovalar",
+      "deployment": "O‘rtacha deploy vaqti",
+      "success": "Muvaffaqiyat darajasi",
+      "ssl": "SSL bilan himoyalangan"
+    }
+  },
+  "services": {
+    "title": "Professional raqamli xizmatlar",
+    "description": "Raqamli mahsulotlaringizni tez va xavfsiz tarzda ishga tushirish uchun mo‘ljallangan xizmatlarimizni tanlang.",
+    "tabs": {
+      "app_publishing": "Ilova Nashri",
+      "devops": "DevOps Xizmatlari"
+    },
+    "app": {
+      "title": "Google Play Ilova Nashri",
+      "description": "Tez, xavfsiz va siyosatga moslashtirilgan nashr. Spam yoki kulrang zona ilovalar qabul qilinmaydi.",
+      "features": {
+        "0": {
+          "title": "AAB/APK yuklash",
+          "desc": "Play Console'ga professional yuklash"
+        },
+        "1": {
+          "title": "Listing optimizatsiyasi",
+          "desc": "Sarlavha, kategoriya, teg, ASO"
+        },
+        "2": {
+          "title": "Grafika va skrinshotlar",
+          "desc": "Grafikalar, ikonka va skrinshotlar"
+        },
+        "3": {
+          "title": "Maxfiylik siyosati",
+          "desc": "Google Play siyosatiga mos"
+        },
+        "4": {
+          "title": "Sharh monitoringi",
+          "desc": "Holatni kuzatish va yordam"
+        },
+        "5": {
+          "title": "Tez transfer",
+          "desc": "Ixtiyoriy 60 kun ichida transfer"
+        }
+      }
+    },
+    "devops": {
+      "title": "DevOps Ishga Tushirish Xizmati",
+      "description": "Soatlab DevOps bilan ovora bo‘lmang. Biz sizning kodingizni xavfsiz tarzda ishga tushiramiz — Git, CI/CD va HTTPS bilan.",
+      "supported": "Qo‘llab-quvvatlanadigan texnologiyalar",
+      "features": {
+        "0": {
+          "title": "Domen & DNS",
+          "desc": "Ro‘yxatdan o‘tkazish va sozlash"
+        },
+        "1": {
+          "title": "VPS sozlash",
+          "desc": "Nginx, SSL, xavfsizlik devori"
+        },
+        "2": {
+          "title": "CI/CD tizimi",
+          "desc": "GitHub/GitLab orqali deploy"
+        },
+        "3": {
+          "title": "Bot hosting",
+          "desc": "Telegram botlar 24/7 faol"
+        },
+        "4": {
+          "title": "SSL Sertifikat",
+          "desc": "Doimiy bepul Let's Encrypt"
+        },
+        "5": {
+          "title": "Ko‘p Framework",
+          "desc": "Laravel, Django, Node.js, React+"
+        }
+      }
+    }
+  },
+  "how_it_works": {
+    "title": "Qanday ishlaydi",
+    "description": "Soddalashtirilgan jarayonlar mahsulotingizni tez va professional ishga tushirish uchun yaratilgan.",
+    "app": {
+      "title": "Ilovani nashr qilish jarayoni",
+      "description": "24-48 soat ichida ilova tayyor bo‘ladi",
+      "steps": [
+        {
+          "title": "Aloqa va maslahat",
+          "desc": "Telegram orqali ilova haqida ma’lumot yuboring"
+        },
+        {
+          "title": "Fayl yuborish va ko‘rib chiqish",
+          "desc": "APK/AAB faylingizni va talablaringizni yuboring"
+        },
+        {
+          "title": "Optimallashtirish va sozlash",
+          "desc": "Grafika, tavsiflar va ro‘yxat optimallashtiriladi"
+        },
+        {
+          "title": "Nashr va monitoring",
+          "desc": "Ilova Google Play’da nashr etiladi va kuzatiladi"
+        }
+      ]
+    },
+    "devops": {
+      "title": "DevOps ishga tushirish jarayoni",
+      "description": "Koddan to to‘liq tayyor deploygacha",
+      "steps": [
+        {
+          "title": "Loyiha haqida suhbat",
+          "desc": "Texnologiya va ehtiyojlaringizni baham ko‘ring"
+        },
+        {
+          "title": "Infratuzilmani sozlash",
+          "desc": "Domen, VPS, SSL va deploy sozlanadi"
+        },
+        {
+          "title": "Kod deploy qilish",
+          "desc": "Kod avtomatik tarzda CI/CD orqali deploy qilinadi"
+        },
+        {
+          "title": "Ishga tushirish va yordam",
+          "desc": "Loyiha tayyor bo‘ladi va doimiy qo‘llab-quvvatlanadi"
+        }
+      ]
+    }
+  },
+  "pricing": {
+    "title": "Shaffof narxlar",
+    "description": "Hech qanday yashirin to‘lovlar yo‘q. Loyihangiz uchun ideal rejani tanlang.",
+    "app_publishing": "Ilova nashri",
+    "devops": "DevOps xizmatlari",
+    "addons": {
+      "title": "Qo‘shimcha xizmatlar",
+      "description": "Paketni qo‘shimcha xizmatlar bilan boyiting",
+      "items": [
+        { "name": "Banner reklama yaratish", "price": "$20", "description": "Professional banner dizayn va integratsiya" },
+        { "name": "AdMob integratsiyasi", "price": "$25", "description": "AdMob monetizatsiyasi to‘liq sozlamasi" },
+        { "name": "Ilovani yangilash", "price": "$10", "description": "Yangi versiyani yuklab joylashtirish" },
+        { "name": "Faqat CI/CD sozlash", "price": "$15", "description": "GitHub/GitLab auto-deploy sozlamasi" }
+      ]
+    },
+    "bonuses": {
+      "title": "Bonuslar",
+      "description": "Har bir loyiha quyidagi bonuslarni o‘z ichiga oladi",
+      "items": [
+        "Umrbod bepul SSL sertifikat",
+        "GitHub/GitLab auto-deploy sozlamasi",
+        "To‘liq hujjatlar to‘plami",
+        "Yuborishda video qo‘llanma"
+      ]
+    },
+    "plans": {
+      "app": [
+        {
+          "name": "Oddiy Yuklash",
+          "price": "$50",
+          "description": "Oddiy APK/AAB yuklash xizmati",
+          "features": [
+            "AAB/APK faylini Play Console’ga yuklash",
+            "Oddiy ilova ro‘yxati sozlamalari",
+            "Tezkor nashr (24-48 soat)",
+            "Email orqali yordam"
+          ],
+          "cta": "Boshlash"
+        },
+        {
+          "name": "To‘liq Nashr Paketi",
+          "price": "$60",
+          "description": "To‘liq ilova nashr xizmati",
+          "features": [
+            "Oddiy Yuklash’dagi barcha imkoniyatlar",
+            "Ilova sahifasini optimallashtirish",
+            "Grafika va skrinshotlar tayyorlash",
+            "Maxfiylik siyosatini yaratish",
+            "Batafsil tavsif yozish",
+            "Ko‘rib chiqishni kuzatish",
+            "Ustuvor yordam"
+          ],
+          "cta": "Eng mashhur"
+        },
+        {
+          "name": "Texnik xizmat",
+          "price": "$25",
+          "recurring": "/oy",
+          "description": "Doimiy ilova kuzatuvi va yangilash",
+          "features": [
+            "Oylik monitoring",
+            "Google siyosatlari bilan moslikni tekshirish",
+            "Ishlashini optimallashtirish",
+            "Yordam va yangilash",
+            "Ustuvor yordam"
+          ],
+          "cta": "Obuna bo‘lish"
+        }
+      ],
+      "devops": [
+        {
+          "name": "Domen va Server",
+          "price": "$50",
+          "description": "Asosiy joylashtirish xizmatlari",
+          "features": [
+            "Domen ro‘yxatdan o‘tkazish (.uz, .com, .dev)",
+            "Nginx bilan VPS sozlash",
+            "Let's Encrypt orqali SSL sertifikati",
+            "Xavfsizlik devori sozlamasi",
+            "Hello World deploy"
+          ],
+          "cta": "Boshlash"
+        },
+        {
+          "name": "PRO To‘plam",
+          "price": "$85",
+          "description": "To‘liq DevOps echimi",
+          "features": [
+            "Domen va Server’dagi barcha xizmatlar",
+            "CI/CD pipeline sozlamasi",
+            "Telegram bot joylashtirish",
+            "Git orqali avtomatik deploy",
+            "Muhit sozlamalari",
+            "To‘liq hujjatlar",
+            "Video qo‘llanma"
+          ],
+          "cta": "Eng qulay"
+        },
+        {
+          "name": "Bot xostingi",
+          "price": "$20",
+          "description": "Doimiy ishlaydigan bot xizmati",
+          "features": [
+            "24/7 Telegram bot ishlashi",
+            "Python yoki Node.js qo‘llab-quvvatlovi",
+            "Nosozlikda avtomatik qayta ishga tushirish",
+            "Monitoring va ogohlantirishlar",
+            "Oddiy yordam"
+          ],
+          "cta": "Qo‘shimcha"
+        }
+      ]
+    },
+    "labels": {
+      "most_popular": "Eng mashhur",
+      "best_value": "Eng qulay narx",
+      "subscribe": "Obuna bo‘lish"
+    }
+  },
+  "faq": {
+    "title": "Ko'p So'raladigan Savollar",
+    "subtitle": "Bizning xizmatlarimiz va jarayonlarimiz haqida umumiy savollarga javoblar oling.",
+    "still_have_questions": "Hali savollaringiz bormi? Biz yordam berish uchun bu yerdamiz!",
+    "contact_cta": "Telegram'da biz bilan bog'laning",
+    "items": [
+      {
+        "question": "Google Play'ga ilova nashr qilish qancha vaqt oladi?",
+        "answer": "Odatda nashr jarayoni uchun 24-48 soat. Google Play ko'rib chiqishi qo'shimcha 1-3 kun talab qilishi mumkin. Biz butun jarayonni kuzatamiz va sizni xabardor qilamiz."
+      },
+      {
+        "question": "Ilovani keyinroq o'z developer hisobimga o'tkazsam bo'ladimi?",
+        "answer": "Ha! Biz 60 kun ichida bepul o'tkazishni taklif qilamiz. 60 kundan keyin hisobimiz yaxlitligini himoya qilish uchun ilova muzlatiladi. O'tkazish jarayoni muammosiz va to'liq qo'llab-quvvatlanadi."
+      },
+      {
+        "question": "Agar Google mening ilovamni rad etsa nima bo'ladi?",
+        "answer": "Biz har qanday siyosat buzilishlarini bartaraf qilish uchun to'liq yordam beramiz. Tasdiqlashni kafolatlay olmasak ham (bu Google'ga bog'liq), biz ilovangizni barcha talablarga moslashtirishga yordam beramiz va kerak bo'lsa qayta yuboramiz."
+      },
+      {
+        "question": "DevOps joylashtirish uchun barcha veb-freymvorklarni qo'llab-quvvatlaysizmi?",
+        "answer": "Ha! Biz Laravel, Django, Node.js, React, Vue.js, Angular, Next.js, Flutter Web va boshqa ko'pgina mashhur freymvorklarni qo'llab-quvvatlaymiz. Agar maxsus talabingiz bo'lsa, faqat so'rang!"
+      },
+      {
+        "question": "SSL sertifikati haqiqatan ham umrbod bepulmi?",
+        "answer": "Albatta! Biz Let's Encrypt sertifikatlaridan foydalanamiz, ular bepul va avtomatik ravishda yangilanadi. Saytingiz doimo HTTPS xavfsizligiga ega bo'ladi, hech qanday qo'shimcha xarajatsiz."
+      },
+      {
+        "question": "CI/CD avto-joylashtirish qanday ishlaydi?",
+        "answer": "Biz GitHub Actions yoki GitLab CI ni sozlaymiz, bu siz asosiy branch'ga push qilganingizda kodingizni avtomatik ravishda joylashtiradi. Har bir git push jonli serverga joylashtirishni boshlaydi."
+      },
+      {
+        "question": "Telegram botlarini 24/7 xost qila olasizmi?",
+        "answer": "Ha! Bizning bot xosting xizmatimiz 24/7 ishlaydi, muvaffaqiyatsizlikda avtomatik qayta ishga tushirish, monitoring va ogohlantirishlar bilan. Python va Node.js botlarini qo'llab-quvvatlaydi."
+      },
+      {
+        "question": "Joylashtirishdan keyin maxsus o'zgartirishlar kerak bo'lsa nima qilaman?",
+        "answer": "Biz to'liq hujjatlar va video qo'llanmalar taqdim etamiz, shunda siz joylashtirishingizni boshqarishingiz mumkin. Qo'shimcha o'zgartirishlar uchun raqobatbardosh narxlarda doimiy yordam taklif qilamiz."
+      },
+      {
+        "question": "Agar qoniqmasam, pulni qaytarib berasizmi?",
+        "answer": "Biz ishimizdan faxrlanamiz. Agar bizning texnik cheklovlarimiz tufayli va'da qilingan xizmatni taqdim eta olmasak, to'liq pulni qaytarib beramiz. Mijozlarning qoniqishi bizning ustuvor vazifamizdir."
+      },
+      {
+        "question": "Qanday boshlashim mumkin?",
+        "answer": "Loyihangiz tafsilotlari bilan Telegram'da @yourusername orqali biz bilan bog'laning. Biz sizning talablaringizni muhokama qilamiz va ehtiyojlaringizga moslashtirilgan narx taklif qilamiz."
+      }
+    ]
+  },
+  "contact": {
+    "title": "Ishga tushirishga tayyormisiz?",
+    "subtitle": "Bugun bog'laning va raqamli mahsulotlaringizni tez va professional tarzda ishga tushirishda qanday yordam berishimiz mumkinligini muhokama qilaylik.",
+    "get_in_touch": "Bog'lanish",
+    "send_message": "Bizga xabar yuboring",
+    "response_time": "Javob vaqti",
+    "response_description": "Biz odatda ish vaqtlari (soat 9:00 dan 18:00 gacha UTC+5) davomida 2-4 soat ichida javob beramiz. Shoshilinch so'rovlar uchun Telegram orqali biz bilan bog'laning, eng tez javob olish uchun.",
+    "telegram_title": "Telegram",
+    "phone_title": "Telefon",
+    "email_title": "Elektron pochta",
+    "telegram_description": "Eng tez javob vaqti",
+    "phone_description": "To'g'ridan-to'g'ri maslahat",
+    "email_description": "Batafsil so'rovlar",
+    "telegram_cta": "Yoki tezkor aloqa uchun to'g'ridan-to'g'ri Telegram orqali bog'laning",
+    "form": {
+      "name_label": "Ismingiz",
+      "name_placeholder": "To'liq ismingizni kiriting",
+      "phone_label": "Telefon raqamingiz",
+      "phone_placeholder": "Telefon raqamingizni kiriting",
+      "email_label": "Elektron pochtangiz",
+      "email_placeholder": "Elektron pochta manzilingizni kiriting",
+      "service_label": "Kerakli xizmat",
+      "service_placeholder": "Xizmatni tanlang",
+      "service_options": {
+        "app_publishing": "Google Play ilovasini nashr qilish",
+        "devops_basic": "DevOps - Domen va veb-server",
+        "devops_pro": "DevOps - PRO to'plami",
+        "bot_hosting": "Telegram bot xostinga",
+        "custom": "Maxsus yechim"
+      },
+      "message_label": "Loyiha tafsilotlari",
+      "message_placeholder": "Loyihangiz, talablaringiz va muddatlaringiz haqida bizga xabar bering...",
+      "submit_button": "Xabar yuborish",
+      "submitting": "Yuborilmoqda...",
+      "success_message": "Xabaringiz muvaffaqiyatli yuborildi!",
+      "error_message": "Xabar yuborishda xatolik yuz berdi. Iltimos, keyinroq qayta urinib ko'ring."
+    }
+  },
+  "footer": {
+    "brand_name": "DevLaunch Pro",
+    "description": "Ilovalar nashri va DevOps joylashtirish uchun professional raqamli xizmatlar. Biz dasturchilar va startaplarga o'z mahsulotlarini tez, xavfsiz va professional tarzda ishga tushirishda yordam beramiz.",
+    "services": {
+      "title": "Xizmatlar",
+      "app_publishing": "Ilova nashr qilish",
+      "devops_deployment": "DevOps joylashtirish",
+      "bot_hosting": "Bot xostinga",
+      "cicd_setup": "CI/CD sozlash",
+      "pricing": "Narxlar"
+    },
+    "support": {
+      "title": "Yordam",
+      "faq": "Savollar",
+      "contact_us": "Biz bilan bog'lanish",
+      "how_it_works": "Qanday ishlaydi",
+      "documentation": "Hujjatlar",
+      "terms_of_service": "Xizmat shartlari"
+    },
+    "copyright": "© 2025 DevLaunch Pro. Barcha huquqlar himoyalangan.",
+    "made_with_love": "Dasturchilar uchun ❤️ bilan yaratilgan"
+  }
+}
