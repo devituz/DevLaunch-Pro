@@ -128,7 +128,7 @@ const Header: React.FC = () => {
                       </a>
                   ))}
                   <a
-                      href="https://t.me/yourusername"
+                      href="https://t.me/devit_uz"
                       className="bg-gradient-to-r from-blue-600 to-purple-600 text-white px-6 py-2 rounded-lg font-semibold text-center"
                   >
                     {t('header.start_on_telegram')}
